@@ -1,12 +1,12 @@
 html2plaintext
 =============
 
-Python module to validate eMail.
+Python module to convert HTML to Plain Text.
 
 Nutshell
 --------
 
-Here a simple example to validate eMail:
+Here a simple example to convert plain text:
 
     >> from html2plaintext import html2plaintext
     >> html = '<h1>Hello World</h1>'
