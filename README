@@ -1,0 +1,13 @@
+html2plaintext
+=============
+
+Python module to validate eMail.
+
+Nutshell
+--------
+
+Here a simple example to validate eMail:
+
+    >> from html2plaintext import html2plaintext
+    >> html = '<h1>Hello World</h1>'
+    >> html2plaintext(html)
